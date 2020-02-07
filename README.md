@@ -1,7 +1,7 @@
-# useful-plugins
-Please find some useful plugins for designing and development
+# Useful Plugins
 
 
+## Web Designing and Development
 
 <table class="table table-striped table-bordered">
                   <thead>
