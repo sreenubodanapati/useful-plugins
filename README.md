@@ -171,6 +171,10 @@
                       <td>TinyMCE</td>
                       <td><a href="https://www.tiny.cloud/" target="_blank">https://www.tiny.cloud/</a></td>
                     </tr>
+                    <tr>
+                      <td>Plotly</td>
+                      <td><a href="https://plot.ly" target="_blank">https://plot.ly</a></td>
+                    </tr>
                   </tbody>
                 </table>
 
